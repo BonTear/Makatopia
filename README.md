@@ -4,6 +4,7 @@
 * It can be used to maintain a schedule.
 * It will notify its user according to the time sat.
 * Useful for making a routine.
+* Because it has an anime theme.
 # Thank You!
 ***
 # Preview:
